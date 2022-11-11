@@ -1,3 +1,5 @@
-{"person_name":"olya",
+{"person_name": "olya",
 "person_age": 35,
-"person_weight":45}
+"person_weight": 45
+"person_salary": 1000,
+"person_car": "bmw"}
