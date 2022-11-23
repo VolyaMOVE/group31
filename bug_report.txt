@@ -1,0 +1,7 @@
+environment - Windows 11
+title - Not all homepage elements are translated into Japanese
+steps - 1) Click on the language selection dropdown in the upper right corner 
+        2) Switch language to Japanese 
+        3) Scroll the page down to the end
+expected result - All elements of the main page are translated into Japanese
+actual result - Not all homepage elements are translated into Japanese
